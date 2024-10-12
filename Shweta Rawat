@@ -1,0 +1,18 @@
+This project demonstrates my expertise in Power BI, focusing on time series analysis and sales forecasting. I developed an interactive dashboard that provides valuable insights into historical sales trends, 
+seasonality patterns, and future sales projections. Leveraging advanced data modeling techniques and DAX, I created a user-friendly, dynamic tool that allows stakeholders to explore data from multiple perspectives and 
+make data-driven decisions with confidence.
+
+Key Features:
+
+📊 Time Series Data Analysis: Visualized sales trends over time, with decomposition into trend, seasonal, and residual components to highlight patterns and anomalies.
+📈 Sales Forecasting: Implemented ARIMA and exponential smoothing models to generate accurate sales forecasts, complete with confidence intervals and performance comparison to actuals.
+🖥️ Interactive Dashboards: Enabled dynamic filtering, drill-downs, and cross-filtering with Power BI features, allowing users to explore data intuitively and uncover deeper insights.
+💡 Custom DAX Measures: Developed custom KPIs such as Year-over-Year (YoY) growth, cumulative sales, and target achievement metrics.
+🎨 User-Friendly Design: Ensured the dashboard was easy to navigate, with clear visual storytelling and an emphasis on business impact.
+
+Tools & Technologies:
+Power BI for data visualization and dashboard creation
+DAX for advanced calculations and metrics
+SQL for data extraction and transformation
+Power Query for ETL processes
+Forecasting models (ARIMA, Exponential Smoothing)
